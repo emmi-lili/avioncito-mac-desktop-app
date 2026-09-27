@@ -32,6 +32,18 @@ Colors, font, speed and flight height live at the top of `Sources/PlaneView.swif
 
 If it never asked for permission, or you denied it, go to System Settings → Privacy & Security → Calendars and turn on Avioncito. macOS may ask for permission again after you rebuild. That's normal for locally signed apps.
 
+### Privacy
+
+Avioncito never connects to the internet. It reads your calendar locally, only to know when your next meeting starts, and it doesn't store or send your data anywhere.
+
+### Official repository
+
+The only official source is [github.com/emmi-lili/avioncito-mac-desktop-app](https://github.com/emmi-lili/avioncito-mac-desktop-app). Copies downloaded from anywhere else may have been modified.
+
+### License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 ## Español
@@ -61,3 +73,15 @@ Los colores, la fuente, la velocidad y la altura del vuelo están al inicio de `
 ### Si algo no funciona
 
 Si no te pidió permiso o lo negaste, ve a Configuración del Sistema → Privacidad y seguridad → Calendarios y activa Avioncito. Al recompilar, macOS puede volver a pedirte el permiso. Eso es normal en apps firmadas localmente.
+
+### Privacidad
+
+Avioncito nunca se conecta a internet. Lee tu calendario de forma local, solo para saber cuándo empieza tu próxima reunión, y no guarda ni envía tus datos a ningún lado.
+
+### Repositorio oficial
+
+La única fuente oficial es [github.com/emmi-lili/avioncito-mac-desktop-app](https://github.com/emmi-lili/avioncito-mac-desktop-app). Las copias descargadas desde otro lugar podrían estar modificadas.
+
+### Licencia
+
+MIT. Ver [LICENSE](LICENSE).

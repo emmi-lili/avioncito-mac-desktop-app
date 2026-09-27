@@ -1,0 +1,15 @@
+# Compilación
+build/
+
+# macOS
+.DS_Store
+
+# Xcode / Swift
+.build/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# Variables de entorno y secretos
+.env
+.env.*
