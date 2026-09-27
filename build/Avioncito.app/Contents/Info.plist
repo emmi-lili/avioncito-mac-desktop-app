@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Avioncito</string>
+    <key>CFBundleDisplayName</key>
+    <string>Avioncito</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.emmi.avioncito</string>
+    <key>CFBundleExecutable</key>
+    <string>Avioncito</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Avioncito lee tus próximas reuniones para avisarte 5 minutos antes.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Avioncito lee tus próximas reuniones para avisarte 5 minutos antes.</string>
+</dict>
+</plist>
