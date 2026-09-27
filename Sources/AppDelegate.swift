@@ -119,7 +119,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
     }
 
     @objc private func testFlight() {
-        fly("Reunión de prueba en 5 min")
+        fly("Reunión de Stellar Elite Bolivia en 5 min")
     }
 
     @objc private func toggleLogin(_ sender: NSMenuItem) {

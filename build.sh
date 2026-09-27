@@ -23,6 +23,8 @@ echo "✅ Listo: $APP"
 
 if [ "${1:-}" = "install" ]; then
   pkill -x Avioncito 2>/dev/null || true
+  # Esperar a que el proceso viejo termine; si no, `open` falla con -600 (procNotFound).
+  sleep 1
   rm -rf /Applications/Avioncito.app
   cp -R "$APP" /Applications/
   open /Applications/Avioncito.app
