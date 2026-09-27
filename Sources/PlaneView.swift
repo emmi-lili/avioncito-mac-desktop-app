@@ -8,7 +8,7 @@ enum Style {
     static let planeColor  = NSColor(srgbRed: 0.827, green: 0.792, blue: 0.922, alpha: 1.0) // #d3caeb
     static let ropeColor   = NSColor(white: 0.35, alpha: 0.8)
     static let font        = NSFont.systemFont(ofSize: 22, weight: .semibold)
-    static let speed: CGFloat = 320        // puntos por segundo
+    static let speed: CGFloat = 250        // puntos por segundo
     static let heightRatio: CGFloat = 0.72 // altura del vuelo (0 = abajo, 1 = arriba)
 }
 
